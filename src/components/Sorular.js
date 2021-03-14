@@ -14,11 +14,9 @@ function Sorular(){
         {id: 9, soru:"Aydin Ege Bolgesindedir", cevap:"True"},
         {id: 10, soru:"Antalya Akdeniz Bolgesindedir", cevap:"True"},
 
-
      ]
     
     
-
  return(
      <div>       
         {          
